@@ -19,6 +19,7 @@ Along this project, several sources of information have been used. Although spec
 - [MatPlotLib documenttion](https://matplotlib.org/)
 - [AutoDesk research](https://www.autodeskresearch.com/publications/samestats)
 - [Wikipedia](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
+- [San José State University](http://www.sjsu.edu/faculty/gerstman/StatPrimer/anscombe1973.pdf)
 
 ## License
 This project is under GNU General Public License v3.0
